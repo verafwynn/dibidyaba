@@ -22,8 +22,9 @@ import asyncio
 from keep_alive import keep_alive
 import requests
 from discord_webhook import DiscordWebhook
-cid = #put channel id here for spam
-token = ("token")
+cid = 1119390821423267891#put channel id here for spam
+token = ("
+MTExOTM4OTc1MTc3NTA3NjM2Mw.G-OP7W.shdFoGn6nab9GozU0vsxfSy7fWom8-GnmzjhjE")
 editing = {
 
 }
